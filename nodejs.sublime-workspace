@@ -1,0 +1,643 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"categ",
+				"category_name"
+			],
+			[
+				"bill",
+				"bill_address_"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"marign",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"hidde",
+				"hidden-xs"
+			],
+			[
+				"hidd",
+				"hidden-xs"
+			],
+			[
+				"hidden",
+				"hidden-sm"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"next",
+				"next-2"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"e1",
+				"e1eaef"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"f5f",
+				"f5f4f1"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"Ar",
+				"ArnoPro"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"hidden-",
+				"hidden-lg"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"CUSTOM",
+				"custom-container"
+			],
+			[
+				"margin-t",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"custom",
+				"custom-container"
+			],
+			[
+				"font-s",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "package ins",
+		"selected_items":
+		[
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"wordpr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 557.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/node_vue_lab"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/node_vue_lab/nodejs.sublime-project",
+		"/Applications/MAMP/htdocs/node_vue_lab/myfirst.js",
+		"/Applications/MAMP/htdocs/node_vue_lab/npm-debug.log",
+		"/Applications/MAMP/htdocs/node_vue_lab/index.html",
+		"/Applications/MAMP/htdocs/node_vue_lab/node_modules/pokedex-promise-v2/README.md",
+		"/Applications/MAMP/htdocs/node_vue_lab/node_modules/pokedex-promise-v2/index.js",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/templates/joostrapbase-v3-4/css/custom.css",
+		"/Applications/MAMP/Library/lib/perl5/5.24.0/Locale/Codes/Language_Codes.pm",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/templates/joostrapbase-v3-4/css/bootstrap.min.css",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/api/cj_api_call.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/templates/joostrapbase-v3-4/index.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/templates/joostrapbase-v3-4/tracking.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/libraries/floristone/FloristOne.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/libraries/paypal/PayPal.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_createmessage/controller.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_createmessage/authorize/README",
+		"/Applications/MAMP/htdocs/perfectgift-lab/.gitignore",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/cron/check_stockpile.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/cron/new_sil.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/modules/mod_karinsultan/tmpl/default.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/templates/joostrapbase-v3-4/css/custom.css",
+		"/Users/paul/Downloads/ajax.js",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/staging/configuration.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/administrator/components/com_hikashop/views/product/tmpl/form.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/staging/administrator/php_errorlog",
+		"/Applications/MAMP/htdocs/perfectgift-lab/modules/mod_brands/helper.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/modules/mod_ojoli/tmpl/default.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/modules/mod_ojoli/helper.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/modules/mod_brands/tmpl/default.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/modules/mod_brands/mod_brands.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/modules/mod_brands/mod_brands.xml",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/be6247e1-57f4-4d35-895f-b50aef20512a/public_html/index.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/b37853fa-e570-4606-867d-19dc2df271bf/public_html/index.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/index.php",
+		"/Applications/MAMP/htdocs/testing/index.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/templates/joostrapbase-v3-4/index.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/product/tmpl/listing_img_title.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/components/com_hikashop/views/product/tmpl/listing_img_title.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/components/com_hikashop/views/product/tmpl/listing_img.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/product/tmpl/listing_img_pane.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/product/tmpl/listing_img_desc.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/product/tmpl/listing_img.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/product/tmpl/listing_fade.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/product/tmpl/listing_table.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/components/com_hikashop/views/product/tmpl/listing_div.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/product/tmpl/listing_div.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/components/com_hikashop/views/product/tmpl/listing_list.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/category/tmpl/listing_div.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/product/tmpl/quantity.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/product/view.html.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/product/tmpl/listing_list.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/components/com_hikashop/hikashop.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/components/com_hikashop/views/product/view.html.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/plugins/fabrik_element/timer/timer.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/plugins/fabrik_element/time/time.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/product/tmpl/listing.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/mysql/sendlater_staging.sql",
+		"/Applications/MAMP/htdocs/perfectgift-lab/plugins/search/hikashop_products/hikashop_products.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/administrator/modules/mod_adminmenumanager/tmpl/default.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/administrator/components/com_rsform/helpers/mailchimp.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/cron/giftcardapi.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_createmessage/js/ajax.js",
+		"/Applications/MAMP/htdocs/perfectgift-lab/administrator/components/com_hikashop/classes/address.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/checkout/tmpl/address_view.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/checkout/tmpl/status.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/checkout/tmpl/ccinfo.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/checkout/tmpl/payment.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/checkout/tmpl/cart.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/address/tmpl/form.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/address/tmpl/address_template.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/checkout/tmpl/address.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/media/com_hikashop/css/frontend_custom.css",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/b37853fa-e570-4606-867d-19dc2df271bf/public_html/components/com_hikashop/views/checkout/tmpl/payment.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/b37853fa-e570-4606-867d-19dc2df271bf/public_html/components/com_hikashop/views/checkout/tmpl/status.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/b37853fa-e570-4606-867d-19dc2df271bf/public_html/components/com_hikashop/views/checkout/tmpl/address.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/b37853fa-e570-4606-867d-19dc2df271bf/public_html/administrator/components/com_hikashop/classes/address.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/b37853fa-e570-4606-867d-19dc2df271bf/public_html/components/com_hikashop/views/address/tmpl/address_template.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/administrator/components/com_hikashop/helpers/helper.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/administrator/components/com_hikashop/extensions/plg_hikashoppayment_atos/atos_configuration.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/administrator/components/com_akeeba/backup/AK-site-localhost-20170630-094449.jpa",
+		"/Applications/MAMP/htdocs/perfectgift-lab/plugins/hikashoppayment/atos/atos_configuration.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_ats/View/AssignedTickets/tmpl/default.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/checkout/view_legacy.html.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/checkout/view.html.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/checkout/tmpl/after_end.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/checkout/tmpl/address_select.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/address/view.html.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/checkout/tmpl/show_block_address.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/administrator/components/com_ats/Model/EmailTemplates.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/administrator/components/com_rsform/views/configuration/tmpl/default.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/administrator/components/com_hikashop/helpers/cart.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/checkout/tmpl/show_block_status.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/controllers/checkout_legacy.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/cart/tmpl/showcart.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/language/en-GB/en-GB.com_hikashop.ini",
+		"/Applications/MAMP/htdocs/perfectgift-lab/administrator/components/com_hikashop/extensions/plg_hikashoppayment_stripe/stripe_end.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/checkout/tmpl/step.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/checkout/tmpl/show.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/views/checkout/tmpl/show_block_payment.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/testing.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/b37853fa-e570-4606-867d-19dc2df271bf/public_html/test.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/templates/joostrapbase-v3-4/testing.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_content/views/article/view.html.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_users/controllers/registration.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/components/com_users/controllers/registration.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_hikashop/controllers/order.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/administrator/components/com_hikashop/views/user/tmpl/listing.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/components/com_content/views/article/view.html.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/components/com_createmessage/controller.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/b37853fa-e570-4606-867d-19dc2df271bf/public_html/components/com_createmessage/controller.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_createmessage/createmessage.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_content/router.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/components/com_content/router.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/b37853fa-e570-4606-867d-19dc2df271bf/public_html/components/com_content/router.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/b37853fa-e570-4606-867d-19dc2df271bf/public_html/templates/joostrapbase-v3-4/index.php",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/b37853fa-e570-4606-867d-19dc2df271bf/public_html/templates/joostrapbase-v3-4/css/custom.css",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/modules/mod_ojoli/tmpl/default.php",
+		"/Applications/MAMP/htdocs/testing/main.css",
+		"/Applications/MAMP/htdocs/perfectgift-lab/plugins/slider/js/jquery.bxslider.js",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/cron/CJ.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/api/item_api.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_createmessage/models/createmessage.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/components/com_createmessage/03171200.controller.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/cron/sil.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/cron/new_sil.php",
+		"/Applications/MAMP/htdocs/perfectgift-lab/language/en-GB/en-GB.com_customlanguage.ini",
+		"/private/var/folders/y7/nl_kmg656f9fsx5ys9gghgh40000gn/T/563c9c73-65de-429e-830c-4e0c920e760e/language/en-GB/en-GB.com_customlanguage.ini",
+		"/Applications/MAMP/htdocs/perfectgift-lab/administrator/components/com_addressbook/addressbook.xml"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"",
+			"/Applications/MAMP/htdocs/wordpress/wp-content/themes/twentyseventeen",
+			"",
+			"/Applications/MAMP/htdocs/perfectgift-lab/components/com_createmessage/js/ajax.js",
+			"/Applications/MAMP/htdocs/perfectgift-lab/components/com_createmessage/js",
+			"",
+			"perfectgift-lab",
+			"",
+			"test",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"(max-width:770px)",
+			"(max-width: 770px)",
+			"only screen and (max-width: 770px)",
+			".nav-footer li",
+			"facebook",
+			"google anal",
+			"Authorize.net api",
+			"Authorize net api",
+			"Authorize api",
+			"Authorize.net",
+			"Authorize",
+			"stockpile",
+			"giftcard",
+			"1800flowers",
+			"chase ",
+			"chase",
+			"Greeting",
+			"theGreetingcard",
+			"Mailchimp",
+			"paypal",
+			"tinggly",
+			"one for experience",
+			"FloristOne",
+			"Flowers",
+			"Signifyd",
+			"Stockpile",
+			"Juntion",
+			"commission ",
+			"api",
+			"Sw-A-2.jpg",
+			"ojolie/Sw-A-2.jpg",
+			"/images/ojolie/Sw-A-2.jpg",
+			"curated-ojolie",
+			"Oops Something went wrong! Please try again!",
+			"hikashop_child_image",
+			"Toy & Games",
+			"HIKA_CATEGORIES",
+			"data_product_categories",
+			"product category",
+			"hikashop_product_image_subdiv",
+			"hikashop_product_image",
+			"hikashop_product_image_subdiv",
+			"hikashop_product_name",
+			"hikashop_product_image_subdiv",
+			"hikashop_product_name",
+			"hikashop_listing_img_title",
+			"hikashop_subcontainer thumbnail",
+			"hikashop_product_name",
+			"date",
+			"hikashop_container",
+			"hikashop_product_name",
+			"Product ID:",
+			"Product ID",
+			"Product",
+			"Product ID:",
+			"hikashop_product",
+			"product_name",
+			"row",
+			"name",
+			"hikashop_getCID",
+			"hikashop_",
+			"hikashop",
+			"add_to_cart",
+			"JFactory::getDbo",
+			"name",
+			"col-xs-6",
+			"col-xs-6 hikashop_product_custom_advertiser_id_line",
+			"advertiser",
+			"hikashop_table(",
+			"category",
+			"JFactory::getDBO",
+			"$db",
+			"getDBO",
+			"hikashop",
+			"product/",
+			"/product",
+			"/list",
+			"list",
+			"JFactory::getDate()",
+			"JFactory::getDate()->toFormat",
+			"%h:%i",
+			"product",
+			"DATE_FORMAT",
+			"hikashop_container",
+			"date",
+			"hikashop_subcontainer",
+			"hikashop_subcontainer thumbnail",
+			"div_hikashop_category_information_menu",
+			"div_hikashop_category_information_menu_",
+			"HH-MM-SS",
+			"15:56:32",
+			"HH-MM-SS",
+			"hikashop_listing_img_title",
+			"sl_hikashop_product_category",
+			"$this->cate",
+			"$img",
+			"row->product_cate",
+			"product_categ",
+			"product_name",
+			"name",
+			"data[product][categories]",
+			"namebox ui-sortable-handle",
+			"data_product_categories",
+			"hikashop_listing_img_title",
+			"hikashop_product_image",
+			"hikashop_product_stock",
+			"hikashop_listing_img_title",
+			"YYYY",
+			"div_hikashop_category_information_men",
+			"div_hikashop_category_information_menu_",
+			"YYYY-",
+			"yy",
+			"hikashop_listing_img_title",
+			" no_icon_level_1",
+			"SendItLater Admin",
+			"pad_a arrow_down",
+			"OMNI_USER",
+			"Omni authorize user ",
+			"paul",
+			"mailchimp",
+			"paul.parisi@senditlater.com",
+			"fbtrack(",
+			"fb('track'",
+			"fbq('track'",
+			"hikashop_checkout_loading_spinner small_spinner",
+			"hikashop_checkout_status",
+			"hikashop_payment_methods_table",
+			"hikashop_checkout_address"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nodejs.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/perfectgift_lab_proj.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 313.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
